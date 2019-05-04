@@ -1,2 +1,0 @@
-// MultiBot.cpp
-// Lincoln Kinley
